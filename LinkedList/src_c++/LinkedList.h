@@ -26,8 +26,8 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
-#ifndef __LinkedList_C____JPSLinkedList__
-#define __LinkedList_C____JPSLinkedList__
+#ifndef __LinkedList_C____LinkedList__
+#define __LinkedList_C____LinkedList__
 
 #include <stdio.h>
 
