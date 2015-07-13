@@ -145,4 +145,4 @@ public:
     
 };
 
-#endif /* defined(__LinkedList_C____JPSLinkedList__) */
+#endif /* defined(__LinkedList_C____LinkedList__) */
