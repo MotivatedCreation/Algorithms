@@ -26,8 +26,8 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
-#ifndef __Algorithms__DoublyLinkedList__
-#define __Algorithms__DoublyLinkedList__
+#ifndef __Algorithms__LinkedList__
+#define __Algorithms__LinkedList__
 
 #include <stdio.h>
 
@@ -144,4 +144,4 @@ public:
 };
 
 
-#endif /* defined(__Algorithms__DoublyLinkedList__) */
+#endif /* defined(__Algorithms__LinkedList__) */
