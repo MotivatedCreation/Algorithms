@@ -2,6 +2,8 @@
 //  LinkedList.h
 //  LinkedList_C++
 //
+//  Created by Jonathan Sullivan on 7/12/15.
+//
 // The MIT License (MIT)
 //
 // Copyright (c) 2015 Jonathan Sullivan
