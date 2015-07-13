@@ -1,8 +1,8 @@
-# Genetic Algorithm
-
 CSCI421 - Design and Analysis of Algorithms
 
-Simple Genetic Algorithm Project Example and Paper
+Final Project
+
+# Genetic Algorithm
 
 Purpose:
 A Genetic Algorithm used to derive the words "Hello, World!".
