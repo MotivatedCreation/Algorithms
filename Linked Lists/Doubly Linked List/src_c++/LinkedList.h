@@ -1,5 +1,5 @@
 //
-//  DoublyLinkedList.h
+//  LinkedList.h
 //  Algorithms
 //
 //  Created by Jonathan Sullivan on 7/13/15.
