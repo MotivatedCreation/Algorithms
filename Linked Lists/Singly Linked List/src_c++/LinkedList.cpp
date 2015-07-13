@@ -1,6 +1,6 @@
 //
 //  LinkedList.cpp
-//  LinkedList_C++
+//  Algorithms
 //
 //  Created by Jonathan Sullivan on 7/12/15.
 //
