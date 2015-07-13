@@ -1,4 +1,4 @@
-CSCI421 - Design and Analysis of Algorithms
+# CSCI421 - Design and Analysis of Algorithms
 
 Final Project
 
