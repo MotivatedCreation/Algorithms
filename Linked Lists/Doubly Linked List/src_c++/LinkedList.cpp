@@ -1,5 +1,5 @@
 //
-//  DoublyLinkedList.cpp
+//  LinkedList.cpp
 //  Algorithms
 //
 //  Created by Jonathan Sullivan on 7/13/15.
@@ -26,4 +26,4 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
-#include "DoublyLinkedList.h"
+#include "LinkedList.h"
