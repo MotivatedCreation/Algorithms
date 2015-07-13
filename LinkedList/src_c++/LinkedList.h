@@ -30,7 +30,10 @@ public:
     
 #pragma mark - Life Cycle Functions
     
-    
+    virtual ~LinkedList()
+    {
+        removeAllNodes();
+    }
     
 #pragma mark -
     
@@ -41,12 +44,12 @@ public:
     {
         int count = 0;
         
-        Node<T> * node = head;
+        Node<T> * currentNode = head;
         
-        while (node)
+        while (currentNode)
         {
             count++;
-            node = node->next;
+            currentNode = currentNode->next;
         }
         
         return count;
@@ -56,6 +59,22 @@ public:
     
     
 #pragma mark - Action Fucntions
+    
+    void removeAllNodes()
+    {
+        Node<T> * currentNode = head;
+        
+        while (currentNode)
+        {
+            Node<T> * nodeToDelete = currentNode;
+            currentNode = currentNode->next;
+            
+            delete nodeToDelete;
+        }
+        
+        head = nullptr;
+        tail = nullptr;
+    }
     
     void addNode(Node<T> * node)
     {
