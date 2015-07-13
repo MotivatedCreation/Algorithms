@@ -1,5 +1,5 @@
 #Linked List
-A simple Linked list implementation.
+Simple Singly and Doubly Linked list implementations.
 
 Languages Used: C++
 
