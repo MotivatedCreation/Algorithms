@@ -2,7 +2,7 @@
 
 Final Project
 
-# Genetic Algorithm
+## Genetic Algorithm
 
 Purpose:
 A Genetic Algorithm used to derive the words "Hello, World!".
@@ -10,7 +10,7 @@ A Genetic Algorithm used to derive the words "Hello, World!".
 Languages Used: Java, C++, Swift, Objective-C
 
 
-#License
+## License
 The MIT License (MIT)
 
 Copyright (c) 2015 Jonathan Sullivan
