@@ -5,7 +5,7 @@
 //  Created by Jonathan Sullivan on 7/17/15.
 //
 
-#include <stdio.h>
+#include <cstdio>
 
 template<typename T, A>
 T binarySearch(int first, int last, A array[], const T &target)
