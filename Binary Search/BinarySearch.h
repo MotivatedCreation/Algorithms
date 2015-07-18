@@ -10,6 +10,8 @@
 template<typename T, A>
 T binarySearch(int first, int last, A array[], const T &target)
 {
+    const int kNotFound = -1;
+    
     int mid = 0;
     
     while (first <= last)
@@ -29,6 +31,6 @@ T binarySearch(int first, int last, A array[], const T &target)
         }
     }
     
-    return -1;
+    return kNotFound;
 }
 
